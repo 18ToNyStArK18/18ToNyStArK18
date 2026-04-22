@@ -21,7 +21,7 @@ CS undergrad @ IIIT Hyderabad &nbsp;·&nbsp; Builder of systems, tools, and game
 
 ## 👋 About me
 
-I'm a first-year CS student at IIIT Hyderabad (CGPA 9.66, Dean's List) who loves digging close to the metal — kernel internals, distributed systems, and bare-bones implementations from scratch. When I'm not reading source code or debugging segfaults, I'm building real-world apps or shipping games in OpenGL.
+I'm a second-year CS student at IIIT Hyderabad (CGPA 9.66, Dean's List) who loves digging close to the metal — kernel internals, distributed systems, and bare-bones implementations from scratch. When I'm not reading source code or debugging segfaults, I'm building real-world apps or shipping games in OpenGL.
 
 ---
 
