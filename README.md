@@ -45,6 +45,13 @@ Hybrid RAG platform with a dual-agent system for quiz & summary generation. Uses
 ### 📦 RBAC Courier Tracker (Client Project) &nbsp;`MERN` `Gemini AI`
 Full-stack platform for a real client integrating 20+ carriers via Track123 API and Gemini AI OCR for document processing. Reduced manual shipment logging by 2–3 min/entry.
 
+### 🎪 Felicity Event Management System &nbsp;`MERN` `Socket.io` `JWT`
+Centralized platform for fest management with QR-based attendance tracking and image-based payment verification. Real-time discussion forums with moderation tools, secured via Google reCAPTCHA.
+ 
+### 📱 Institute Management System (IMS) &nbsp;`Kotlin` `Jetpack Compose` `Android`
+Native Android prototype featuring a search-based navigation hub, HR management, and student details module.
+ 
+
 ### 🧮 DSA in x86 Assembly &nbsp;`Assembly`
 Implemented classic data structures and algorithm problems in x86 assembly — because understanding exactly what the CPU does matters.
 
