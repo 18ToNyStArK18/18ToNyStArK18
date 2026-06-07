@@ -67,6 +67,6 @@ Implemented classic data structures and algorithm problems in x86 assembly — b
 
 ## 📫 Reach me
 
-- 📧 bysani.vedavyas@students.iiit.ac.in
+- 📧 bysanivedavyas@gmail.com
 - 💼 [linkedin.com/in/bysani-vedavyas](https://linkedin.com/in/bysani-vedavyas-a7a778356)
 - 🐙 [github.com/18ToNyStArK18](https://github.com/18ToNyStArK18)
