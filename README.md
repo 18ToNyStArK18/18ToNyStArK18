@@ -27,6 +27,9 @@ I'm a second-year CS student at IIIT Hyderabad (CGPA 9.48, Dean's List) who love
 
 ## 🛠 Projects
 
+### 📑 Page-Index: Vector-less Reasoning-Based RAG &nbsp;`Python` `LLMs` `Tree Search`
+An AlphaGo-inspired, vector-less RAG pipeline built from scratch. Eliminates chunking errors by building a hierarchical "Table-of-Contents" tree structure for reasoning-driven, local LLM retrieval. Achieved state-of-the-art **98.7% accuracy** on FinanceBench.
+
 ### ⚙️ xv6 Kernel — Demand Paging &nbsp;`C` `Memory Management`
 Lazy allocation + demand paging in the xv6 kernel. Reduced physical memory footprint of processes by **90%** via deferred mapping. Also implemented virtual memory swapping.
 
@@ -51,7 +54,6 @@ Centralized platform for fest management with QR-based attendance tracking and i
 ### 📱 Institute Management System (IMS) &nbsp;`Kotlin` `Jetpack Compose` `Android`
 Native Android prototype featuring a search-based navigation hub, HR management, and student details module.
  
-
 ### 🧮 DSA in x86 Assembly &nbsp;`Assembly`
 Implemented classic data structures and algorithm problems in x86 assembly — because understanding exactly what the CPU does matters.
 
