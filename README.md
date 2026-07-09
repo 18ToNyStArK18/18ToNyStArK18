@@ -3,8 +3,6 @@
 CS undergrad @ IIIT Hyderabad &nbsp;·&nbsp; Builder of systems, tools, and games
 
 - 🔭 Currently working on **PageIndexing RAG retrieval**
-- 🌱 Currently learning **AI/LLM internals and applied ML**
-- 👯 Looking to collaborate on **LangChain and AI-related projects**
 - 💬 Ask me about **systems programming, kernel dev, or RAG pipelines**
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: **I'm a very fast learner**
