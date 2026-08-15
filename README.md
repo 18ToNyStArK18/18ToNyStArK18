@@ -2,7 +2,6 @@
 
 CS undergrad @ IIIT Hyderabad &nbsp;·&nbsp; Builder of systems, tools, and games
 
-- 🔭 Currently working on **PageIndexing RAG retrieval**
 - 💬 Ask me about **systems programming, kernel dev, or RAG pipelines**
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: **I'm a very fast learner**
