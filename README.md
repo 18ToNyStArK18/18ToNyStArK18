@@ -5,6 +5,7 @@ CS undergrad @ IIIT Hyderabad &nbsp;·&nbsp; Builder of systems, tools, and game
 - 💬 Ask me about **systems programming, kernel dev, or RAG pipelines**
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: **I'm a very fast learner**
+- **Currently working on NLP and Information Retrieval stuff**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
